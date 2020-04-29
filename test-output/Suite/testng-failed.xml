@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="5" name="Sanity Suite Two(failed)" parallel="tests">
+    <classes>
+      <class name="com.test.file.TestClass">
+        <methods>
+          <include name="takeScreenshot"/>
+          <include name="verifyUrl"/>
+          <include name="setupApplication"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- com.test.file.TestClass -->
+    </classes>
+  </test> <!-- Sanity Suite Two(failed) -->
+</suite> <!-- Failed suite [Suite] -->

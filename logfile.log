@@ -1,0 +1,1957 @@
+2020-04-25 11:10:15,921 INFO  [Logz] ----------- Browser Session Started --------- 
+2020-04-25 11:10:32,144 INFO  [Logz] ----------- Browser Session Started --------- 
+2020-04-25 11:11:25,728 INFO  [Logz] Not working 
+2020-04-25 11:13:44,006 INFO  [Logz] ----------- Browser Session Started --------- 
+2020-04-25 11:19:23,984 INFO  [Logz] ----------- Browser Session Started --------- 
+2020-04-25 11:19:50,054 INFO  [Logz] ----------- Browser Session Started --------- 
+2020-04-25 11:20:32,353 INFO  [Logz] sChromeExePath:- null 
+2020-04-25 11:20:32,359 INFO  [Logz] ----------- Browser Session Started --------- 
+2020-04-25 11:22:32,157 INFO  [Logz] sChromeExePath:- null 
+2020-04-25 11:22:32,163 INFO  [Logz] ----------- Browser Session Started --------- 
+2020-04-25 11:23:38,488 INFO  [Logz] sChromeExePath:- /Users/shashank.a.bansal/Downloads/chromedriver 
+2020-04-25 11:23:38,494 INFO  [Logz] ----------- Browser Session Started --------- 
+2020-04-25 11:25:22,650 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 11:25:22,657 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 11:25:24,482 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 11:42:05,527 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 11:42:05,535 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 11:42:49,193 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 11:42:49,200 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 11:42:54,004 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 12:10:25,053 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 12:10:25,061 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 12:10:27,306 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 12:10:28,072 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 12:10:31,340 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 12:13:49,486 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 12:13:49,493 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 12:13:51,308 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 12:13:53,010 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 12:13:55,886 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 12:29:10,066 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 12:29:10,075 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 12:29:10,081 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 12:29:54,733 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 12:29:54,746 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 12:29:56,911 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 12:29:59,645 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 12:30:02,519 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 12:39:11,773 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 12:39:11,782 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 12:39:13,956 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 12:39:15,761 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 12:39:18,939 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:03:04,240 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:03:04,249 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:04:46,498 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:04:46,504 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:05:57,072 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:05:57,080 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:07:42,620 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:07:42,628 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:08:10,329 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:08:10,335 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:09:25,208 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:09:25,215 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:09:25,215 INFO  [Logz] platform:- Mobile Web - Chrome 
+2020-04-25 13:11:44,204 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:11:44,210 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:11:46,280 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:11:48,001 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:11:51,839 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:11:52,636 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:11:54,063 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:12:36,325 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:12:36,332 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:12:38,117 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:12:48,937 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:12:48,945 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:12:50,642 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:12:52,317 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:12:55,104 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:12:55,851 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:12:57,279 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:18:36,097 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:18:36,105 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:18:38,253 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:18:42,786 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:18:46,175 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:18:47,240 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:18:47,723 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:18:49,009 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:18:57,673 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:22:16,601 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:22:16,612 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:22:18,735 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:22:19,392 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:22:22,040 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:22:22,741 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:22:24,004 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:30:11,620 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:30:11,627 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:30:13,971 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:30:25,573 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:30:25,580 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:30:29,383 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:32:55,779 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:32:55,786 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:32:57,771 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:32:58,659 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:33:00,036 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:33:06,443 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:33:09,656 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:33:10,877 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:33:12,287 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:34:20,761 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:34:20,768 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:34:22,528 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:34:40,547 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:34:40,554 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:34:42,750 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:34:44,401 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:34:47,074 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:34:47,810 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:34:48,999 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:36:02,160 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:36:02,167 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:36:04,014 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:36:05,674 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:36:08,343 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:36:09,130 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:36:10,258 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:44:41,628 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:44:41,638 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:44:43,535 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:45:04,327 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:45:04,335 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:45:07,717 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:45:31,376 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:45:31,383 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:45:33,526 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:46:44,366 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:46:44,374 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:46:46,203 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:46:47,879 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:46:50,737 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:46:51,459 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:46:52,742 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:49:32,520 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:49:32,527 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:49:34,305 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:50:07,359 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:50:07,365 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:50:10,600 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:50:32,153 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:50:32,160 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:50:33,981 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:50:51,502 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 13:50:51,509 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 13:50:53,281 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:50:54,958 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 13:50:57,831 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 13:50:58,548 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 13:50:59,823 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 14:27:01,045 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:27:01,055 INFO  [Logz] Android App - Session Started 
+2020-04-25 14:27:37,765 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:27:37,773 INFO  [Logz] Android App - Session Started 
+2020-04-25 14:28:24,066 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:28:24,073 INFO  [Logz] Android App - Session Started 
+2020-04-25 14:38:32,197 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:38:32,205 INFO  [Logz] Android App - Session Started 
+2020-04-25 14:41:18,804 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:41:18,812 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 14:42:09,193 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:42:09,201 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 14:42:33,323 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:42:33,330 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 14:43:37,507 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:43:37,515 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 14:43:41,695 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 14:43:56,977 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:43:56,984 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 14:43:59,132 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 14:44:16,062 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:44:16,069 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 14:44:17,779 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 14:44:18,785 INFO  [Logz] Android App - Session Started 
+2020-04-25 14:45:59,672 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:45:59,683 INFO  [Logz] Android App - Session Started 
+2020-04-25 14:47:52,088 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:47:52,095 INFO  [Logz] Android App - Session Started 
+2020-04-25 14:51:59,072 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:51:59,081 INFO  [Logz] Android App - Session Started 
+2020-04-25 14:53:04,442 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:53:04,450 INFO  [Logz] Android App - Session Started 
+2020-04-25 14:55:36,849 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:55:36,856 INFO  [Logz] Android App - Session Started 
+2020-04-25 14:59:26,980 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 14:59:26,992 INFO  [Logz] Android App - Session Started 
+2020-04-25 15:04:41,401 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:04:41,409 INFO  [Logz] Android App - Session Started 
+2020-04-25 15:06:07,130 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:06:07,137 INFO  [Logz] Android App - Session Started 
+2020-04-25 15:11:04,063 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:11:04,070 INFO  [Logz] Android App - Session Started 
+2020-04-25 15:26:51,079 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:26:51,086 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 15:26:53,407 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:26:54,093 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 15:26:57,610 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:26:58,688 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 15:27:00,154 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:30:01,863 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:30:01,872 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 15:30:03,742 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:30:04,377 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 15:30:07,041 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:30:07,755 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 15:30:09,085 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:30:09,810 INFO  [Logz] ------------ Android App - Session Started -------------- 
+2020-04-25 15:31:11,431 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:31:11,440 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 15:31:13,125 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:31:13,740 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 15:31:16,595 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:31:17,319 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 15:31:18,494 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:31:19,227 INFO  [Logz] ------------ Android App - Session Started -------------- 
+2020-04-25 15:32:35,549 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:32:35,564 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 15:32:37,966 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:32:38,599 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 15:32:41,558 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:32:42,262 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 15:32:43,719 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:32:47,581 INFO  [Logz] ------------ Android App - Session Started -------------- 
+2020-04-25 15:34:31,781 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:34:31,788 INFO  [Logz] ------------ Android App - Session Started -------------- 
+2020-04-25 15:35:19,032 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:35:19,039 INFO  [Logz] ------------ Android App - Session Started -------------- 
+2020-04-25 15:36:21,170 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:36:21,176 INFO  [Logz] ------------ Android App - Session Started -------------- 
+2020-04-25 15:36:58,185 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:36:58,197 INFO  [Logz] ------------ Android App - Session Started -------------- 
+2020-04-25 15:37:27,505 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 15:37:27,512 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 15:37:29,177 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:37:29,816 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 15:37:32,463 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:37:34,518 INFO  [Logz] Mobile Web - Chrome Browser Session Started 
+2020-04-25 15:37:35,711 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 15:37:37,086 INFO  [Logz] ------------ Android App - Session Started -------------- 
+2020-04-25 18:08:48,007 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:08:48,014 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 18:08:50,145 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 18:11:54,573 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:11:54,580 INFO  [Logz] -------- Mobile Web Android - Chrome Browser Session Started ----------- 
+2020-04-25 18:11:56,526 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 18:18:35,072 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:18:35,079 INFO  [Logz] -------- Mobile Web Android - Chrome Browser Session Started ----------- 
+2020-04-25 18:19:31,761 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:19:31,769 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 18:23:38,528 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:23:38,537 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 18:23:40,595 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 18:24:05,084 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:24:05,090 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 18:24:31,774 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:24:31,782 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 18:24:45,097 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:24:45,103 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 18:24:46,793 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 18:25:40,710 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:25:40,718 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 18:25:57,672 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:25:57,679 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 18:25:59,623 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 18:26:34,121 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:26:34,128 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 18:27:14,026 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 18:27:14,033 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 18:27:18,652 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 19:43:07,220 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 19:43:07,227 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 19:55:10,190 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 19:55:10,197 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 19:56:34,482 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 19:56:34,490 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 19:58:06,048 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 19:58:06,057 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 19:59:53,787 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 19:59:53,796 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 20:00:35,642 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 20:00:35,648 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 20:02:33,547 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 20:02:33,556 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 20:03:08,318 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 20:03:08,328 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 20:03:10,742 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 20:03:42,862 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 20:03:42,872 INFO  [Logz] -------- Mobile Web Android - Chrome Browser Session Started ----------- 
+2020-04-25 20:03:44,585 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 20:24:48,119 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 20:24:48,129 INFO  [Logz] -------- Mobile Web Android - Chrome Browser Session Started ----------- 
+2020-04-25 20:24:50,457 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 20:27:03,173 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 20:27:03,182 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 21:01:44,383 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:01:44,390 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 21:17:48,998 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:17:49,004 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 21:20:24,025 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:20:24,032 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 21:20:46,801 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:20:46,807 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:20:49,085 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:23:08,782 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:23:08,789 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:23:10,794 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:24:40,839 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:24:40,845 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:24:42,654 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:42:51,127 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:42:51,134 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:42:53,025 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:42:54,777 INFO  [Logz] Class Name TestClass 
+2020-04-25 21:43:45,704 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:43:45,713 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:43:47,343 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:43:48,729 INFO  [Logz] Class Name TestClass 
+2020-04-25 21:45:24,207 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:45:24,214 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:45:25,989 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:45:27,660 INFO  [Logz] Class Name TestClass 
+2020-04-25 21:46:03,546 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:46:03,553 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:46:05,383 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:46:06,005 INFO  [Logz] Class Name TestClass 
+2020-04-25 21:47:45,799 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:47:45,810 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:47:47,707 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:47:52,991 INFO  [Logz] Class Name TestClass 
+2020-04-25 21:48:58,500 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:48:58,507 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:49:00,297 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:49:01,963 INFO  [Logz] Class Name TestClass 
+2020-04-25 21:49:26,044 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:49:26,050 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:49:27,931 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:49:29,582 INFO  [Logz] Class Name TestClass 
+2020-04-25 21:51:14,698 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:51:14,705 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:51:16,321 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:51:17,953 INFO  [Logz] Class Name TestClass 
+2020-04-25 21:54:55,270 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:54:55,277 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:54:56,851 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:54:57,493 INFO  [Logz] Dummy Test 
+2020-04-25 21:54:57,499 INFO  [Logz] **************************************************************************************** 
+2020-04-25 21:54:57,499 INFO  [Logz] **************************************************************************************** 
+2020-04-25 21:54:57,499 INFO  [Logz] $$$$$$$$$$$$$$$$$$$$$                 Dummy Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-04-25 21:54:57,499 INFO  [Logz] **************************************************************************************** 
+2020-04-25 21:54:57,499 INFO  [Logz] **************************************************************************************** 
+2020-04-25 21:54:57,511 INFO  [Logz] Pass 
+2020-04-25 21:54:57,511 INFO  [Logz] Debug Message 
+2020-04-25 21:54:57,511 INFO  [Logz] Error Message 
+2020-04-25 21:54:57,513 INFO  [Logz] Class Name TestClass 
+2020-04-25 21:56:56,768 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:56:56,777 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 21:56:58,453 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:57:00,083 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 21:57:03,667 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:57:04,755 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 21:57:06,274 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:57:06,977 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 21:57:08,206 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 21:57:08,910 INFO  [Logz] ----- Done ----- 
+2020-04-25 21:57:08,913 INFO  [Logz] Class Name TestClass 
+2020-04-25 21:58:40,157 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 21:58:40,163 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 21:58:43,200 INFO  [Logz] Class Name APITest 
+2020-04-25 22:00:45,192 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:00:45,201 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:00:46,849 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:00:48,243 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:00:48,245 INFO  [Logz] Class Name TestClass 
+2020-04-25 22:01:23,354 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:01:23,361 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:01:25,076 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:01:25,698 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:01:28,663 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:01:29,385 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 22:01:30,740 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:01:41,333 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 22:01:42,643 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:01:43,595 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:01:43,597 INFO  [Logz] Class Name TestClass 
+2020-04-25 22:02:54,626 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:02:54,634 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:02:56,318 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:02:57,763 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:03:00,629 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:03:01,324 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 22:03:02,541 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:03:09,258 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 22:03:10,487 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:03:11,332 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:03:11,335 INFO  [Logz] Class Name TestClass 
+2020-04-25 22:12:03,105 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:12:03,114 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:12:04,831 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:12:06,293 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:12:09,169 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:12:09,891 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 22:12:11,142 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:12:32,301 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 22:12:33,563 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:12:34,643 INFO  [Logz] ------------ Android App - Session Started -------------- 
+2020-04-25 22:13:12,225 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:13:12,234 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:13:14,070 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:13:15,489 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:13:18,657 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:13:19,411 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 22:13:20,793 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:13:21,574 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 22:13:22,923 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:14:36,641 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:14:36,649 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:14:38,528 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:14:40,238 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:14:43,201 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:14:43,910 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 22:14:45,221 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:14:45,949 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 22:14:47,195 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:14:51,868 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:14:51,869 INFO  [Logz] Class Name TestClass 
+2020-04-25 22:22:26,548 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:22:26,557 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:22:28,729 INFO  [Logz] No Screen shot 
+2020-04-25 22:23:15,452 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:23:15,462 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:23:17,237 INFO  [Logz] No Screen shot 
+2020-04-25 22:23:46,471 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:23:46,479 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:23:48,131 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:23:50,217 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:23:50,227 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:23:51,363 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:23:52,020 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:23:55,091 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:23:56,217 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 22:23:57,377 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:23:59,446 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 22:24:00,762 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:25:00,756 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:25:00,765 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:25:02,356 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:25:04,081 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:25:04,088 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:25:05,311 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:25:05,954 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:25:08,925 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:25:09,657 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 22:25:11,085 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:25:11,974 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 22:25:13,449 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:26:25,023 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:26:25,033 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:26:27,285 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:26:29,346 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:26:29,349 INFO  [Logz] Class Name TestClass 
+2020-04-25 22:26:56,351 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:26:56,362 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:27:00,657 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:27:01,457 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:27:01,459 INFO  [Logz] Class Name TestClass 
+2020-04-25 22:30:55,221 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:30:55,230 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:31:28,180 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:31:28,190 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:32:17,162 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:32:17,170 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:32:19,056 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:47:45,928 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:47:45,939 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:47:46,468 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:48:24,149 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:48:24,157 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:48:26,221 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:48:28,009 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:48:31,560 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:48:32,273 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 22:48:33,503 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:48:34,260 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 22:48:35,470 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:48:36,162 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:48:36,555 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:50:37,273 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:50:37,281 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:50:38,916 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:50:40,574 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:50:43,339 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:50:44,381 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 22:50:45,610 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:50:46,320 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 22:50:47,597 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:50:48,330 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:50:48,752 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:51:54,480 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:51:54,488 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:51:56,112 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:51:57,784 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:52:00,666 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:52:01,717 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 22:52:02,939 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:52:03,661 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 22:52:05,051 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:52:05,839 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:52:06,262 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:52:06,458 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:52:06,466 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 22:52:07,761 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:52:08,506 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:52:11,768 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:52:12,529 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 22:52:13,946 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:52:28,684 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 22:52:30,146 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:52:30,910 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:52:32,645 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "30 Degree celsius",
+    "Humidity": "70 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+} 
+2020-04-25 22:52:32,646 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:54:36,284 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:54:36,293 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:54:36,675 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:54:36,858 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:54:36,864 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 22:54:38,233 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "30 Degree celsius",
+    "Humidity": "70 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+} 
+2020-04-25 22:54:38,233 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:55:41,896 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:55:41,905 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:55:45,043 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:55:45,788 INFO  [Logz] ----- Done ----- 
+2020-04-25 22:55:45,790 INFO  [Logz] Class Name TestClass 
+2020-04-25 22:55:49,198 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:55:49,204 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:55:51,955 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:55:53,499 INFO  [Logz] Class Name APITest 
+2020-04-25 22:57:58,908 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:57:58,916 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:58:02,086 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:58:03,849 INFO  [Logz] Class Name APITest 
+2020-04-25 22:59:44,023 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 22:59:44,031 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 22:59:47,328 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 22:59:48,081 INFO  [Logz] Not Executable 
+2020-04-25 22:59:48,083 INFO  [Logz] Class Name APITest 
+2020-04-25 23:00:50,245 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:00:50,255 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:00:53,403 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:00:54,088 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:00:54,090 INFO  [Logz] Class Name TestClass 
+2020-04-25 23:00:57,477 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:00:57,481 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:01:00,236 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:01:00,984 INFO  [Logz] Not Executable 
+2020-04-25 23:01:00,987 INFO  [Logz] Class Name APITest 
+2020-04-25 23:01:25,761 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:01:25,771 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:01:26,175 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:01:26,379 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:01:26,386 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:01:27,779 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "30 Degree celsius",
+    "Humidity": "70 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+} 
+2020-04-25 23:01:27,779 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:03:51,158 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:03:51,172 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:03:51,553 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:03:51,736 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:03:51,741 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:03:53,138 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "30 Degree celsius",
+    "Humidity": "70 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+} 
+2020-04-25 23:03:53,138 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:04:05,664 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:04:05,673 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:04:07,570 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "30 Degree celsius",
+    "Humidity": "70 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+} 
+2020-04-25 23:04:07,571 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:06:14,996 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:06:15,006 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:06:16,825 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "30 Degree celsius",
+    "Humidity": "70 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+} 
+2020-04-25 23:06:16,825 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:06:39,719 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:06:39,728 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:06:41,498 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:06:42,971 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:06:46,145 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:06:47,108 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:06:48,318 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:06:49,006 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:06:50,248 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:06:51,025 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:06:52,713 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "30 Degree celsius",
+    "Humidity": "70 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+} 
+2020-04-25 23:06:52,714 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:07:41,537 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:07:41,545 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:07:43,239 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:07:43,856 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:07:46,717 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:07:47,430 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:07:48,676 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:07:49,373 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:07:50,650 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:07:52,222 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:07:52,680 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:39:47,851 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:39:47,858 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:39:50,092 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:39:51,777 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:39:55,728 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:39:56,433 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:39:57,767 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:39:58,499 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:39:59,735 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:40:00,460 INFO  [Logz] ------------ Android App - Session Started -------------- 
+2020-04-25 23:40:22,235 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:40:22,244 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:40:23,543 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:40:25,192 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:40:28,118 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:40:28,801 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:40:29,986 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:40:30,670 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:40:31,888 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:40:32,598 INFO  [Logz] ------------ Android App - Session Started -------------- 
+2020-04-25 23:41:49,679 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:41:49,688 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:41:51,306 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:41:51,912 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:41:54,762 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:41:55,701 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:41:56,912 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:41:57,640 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:41:58,887 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:41:59,656 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:42:00,123 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:42:00,344 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:42:00,349 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:42:01,631 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:42:03,167 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:42:06,136 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:42:06,765 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:42:08,215 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:42:08,986 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:42:10,349 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:42:14,392 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:42:16,978 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "30 Degree celsius",
+    "Humidity": "70 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "280 Degree"
+} 
+2020-04-25 23:42:16,978 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:43:47,742 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:43:47,751 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:43:49,586 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:43:50,202 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:43:53,060 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:43:53,772 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:43:55,015 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:43:55,709 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:43:56,912 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:43:57,690 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:43:58,159 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:43:58,360 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:43:58,367 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:43:59,601 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:44:00,308 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:44:03,421 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:44:04,158 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:44:05,526 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:44:06,379 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:44:07,685 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:44:08,477 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:44:09,871 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "30 Degree celsius",
+    "Humidity": "70 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "280 Degree"
+} 
+2020-04-25 23:44:09,871 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:45:19,635 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:45:19,642 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:45:21,254 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:45:22,370 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:45:25,238 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:45:26,213 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:45:27,443 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:45:28,138 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:45:29,379 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:45:30,084 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:45:30,517 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:46:06,462 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:46:06,471 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:46:08,040 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:46:09,694 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:46:12,449 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:46:13,391 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:46:14,577 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:46:15,278 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:46:16,534 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:46:17,251 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:46:17,647 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:46:17,837 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:46:17,843 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:46:19,059 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:46:19,756 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:46:22,947 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:46:24,000 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:46:25,418 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:46:26,166 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:46:27,405 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:46:28,124 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:46:29,504 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "30 Degree celsius",
+    "Humidity": "70 Percent",
+    "WeatherDescription": "haze",
+    "WindSpeed": "2.6 Km per hour",
+    "WindDirectionDegree": "280 Degree"
+} 
+2020-04-25 23:46:29,509 INFO  [Logz] ----- Done ----- 
+2020-04-25 23:51:55,612 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:51:55,620 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:51:57,410 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:51:59,073 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:52:02,253 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:52:03,363 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:52:04,699 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:52:18,983 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:52:20,325 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:52:21,018 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:52:21,390 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:52:21,396 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:52:22,603 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:52:23,237 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:52:26,288 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:52:27,315 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:52:28,621 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:52:29,503 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:52:30,903 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:52:31,644 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:56:40,424 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:56:40,434 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:56:42,207 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:56:43,851 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-25 23:56:46,739 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:56:47,464 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-25 23:56:48,667 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:56:49,422 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-25 23:56:50,800 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:56:51,516 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-25 23:58:19,556 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:58:19,565 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:58:21,258 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:58:21,951 INFO  [Logz] Class Name TestClass 
+2020-04-25 23:59:38,873 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-25 23:59:38,881 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-25 23:59:40,747 INFO  [Logz] --------- Passing URL -------- 
+2020-04-25 23:59:41,454 INFO  [Logz] Class Name TestClass 
+2020-04-26 00:00:11,228 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:00:11,237 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 00:00:13,118 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:00:14,920 INFO  [Logz] Class Name TestClass 
+2020-04-26 00:03:35,036 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:03:35,044 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 00:03:37,108 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:03:47,860 INFO  [Logz] Class Name TestClass 
+2020-04-26 00:05:22,628 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:05:22,635 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 00:05:24,821 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:05:35,660 INFO  [Logz] ----- Done ----- 
+2020-04-26 00:05:35,662 INFO  [Logz] Class Name TestClass 
+2020-04-26 00:06:12,153 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:06:12,162 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 00:06:13,849 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:06:19,687 INFO  [Logz] ----- Done ----- 
+2020-04-26 00:06:19,689 INFO  [Logz] Class Name TestClass 
+2020-04-26 00:06:56,669 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:06:56,676 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 00:06:58,314 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:06:59,993 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 00:07:03,177 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:07:04,268 INFO  [Logz] --------- Mobile Web - Chrome Browser Session Started ---------- 
+2020-04-26 00:07:05,786 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:07:06,479 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-26 00:07:07,739 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:07:08,471 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 00:07:52,321 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:07:52,329 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 00:07:55,498 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:08:01,296 INFO  [Logz] ----- Done ----- 
+2020-04-26 00:08:01,298 INFO  [Logz] Class Name TestClass 
+2020-04-26 00:08:21,022 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:08:21,031 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 00:08:24,168 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:08:29,996 INFO  [Logz] ----- Done ----- 
+2020-04-26 00:08:29,999 INFO  [Logz] Class Name TestClass 
+2020-04-26 00:08:33,412 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:08:33,417 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 00:08:36,064 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:08:36,799 INFO  [Logz] Not Executable 
+2020-04-26 00:08:36,801 INFO  [Logz] Class Name APITest 
+2020-04-26 00:09:01,720 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:09:01,728 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 00:09:05,000 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:09:10,790 INFO  [Logz] ----- Done ----- 
+2020-04-26 00:09:10,792 INFO  [Logz] Class Name TestClass 
+2020-04-26 00:09:14,210 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:09:14,214 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 00:09:17,184 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:09:18,272 INFO  [Logz] Not Executable 
+2020-04-26 00:09:18,274 INFO  [Logz] Class Name APITest 
+2020-04-26 00:10:14,154 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:10:14,161 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 00:10:17,282 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:10:23,021 INFO  [Logz] ----- Done ----- 
+2020-04-26 00:10:23,023 INFO  [Logz] Class Name TestClass 
+2020-04-26 00:10:26,434 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 00:10:26,439 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 00:10:29,328 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 00:10:29,971 INFO  [Logz] Not Executable 
+2020-04-26 00:10:29,973 INFO  [Logz] Class Name APITest 
+2020-04-26 13:10:53,535 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:10:53,547 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 13:10:58,035 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:11:04,345 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:11:04,348 INFO  [Logz] Class Name TestClass 
+2020-04-26 13:11:07,912 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:11:07,919 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 13:11:11,036 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:11:12,105 INFO  [Logz] Not Executable 
+2020-04-26 13:11:12,107 INFO  [Logz] Class Name APITest 
+2020-04-26 13:14:11,813 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:14:11,820 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 13:14:14,025 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:14:20,839 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:14:20,841 INFO  [Logz] Class Name TestClass 
+2020-04-26 13:14:24,635 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:14:24,642 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 13:14:25,923 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:14:26,630 INFO  [Logz] Not Executable 
+2020-04-26 13:14:26,632 INFO  [Logz] Class Name APITest 
+2020-04-26 13:16:14,136 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:16:14,144 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 13:16:16,185 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:16:23,141 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:16:23,144 INFO  [Logz] Class Name TestClass 
+2020-04-26 13:16:27,098 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:16:27,110 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 13:16:28,639 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:16:29,419 INFO  [Logz] Not Executable 
+2020-04-26 13:16:29,422 INFO  [Logz] Class Name APITest 
+2020-04-26 13:17:19,769 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:17:19,776 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 13:17:19,918 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 13:17:21,800 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:17:27,543 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:17:27,545 INFO  [Logz] Class Name TestClass 
+2020-04-26 13:17:31,375 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 13:17:32,671 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:17:33,309 INFO  [Logz] Not Executable 
+2020-04-26 13:17:33,311 INFO  [Logz] Class Name APITest 
+2020-04-26 13:18:14,499 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:18:14,500 INFO  [Logz] browserType:- Web - Firefox 
+2020-04-26 13:18:14,663 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 13:18:18,651 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:18:24,828 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:18:24,831 INFO  [Logz] Class Name TestClass 
+2020-04-26 13:18:30,085 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 13:18:32,971 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:18:33,737 INFO  [Logz] Not Executable 
+2020-04-26 13:18:33,739 INFO  [Logz] Class Name APITest 
+2020-04-26 13:19:03,433 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:19:03,434 INFO  [Logz] browserType:- Mobile Web - Android - Chrome 
+2020-04-26 13:19:03,571 INFO  [Logz] -------- Mobile Web Android - Chrome Browser Session Started ----------- 
+2020-04-26 13:19:05,652 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:19:11,640 INFO  [Logz] Class Name TestClass 
+2020-04-26 13:19:15,338 INFO  [Logz] -------- Mobile Web Android - Chrome Browser Session Started ----------- 
+2020-04-26 13:19:16,630 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:19:17,500 INFO  [Logz] Not Executable 
+2020-04-26 13:19:17,502 INFO  [Logz] Class Name APITest 
+2020-04-26 13:20:09,010 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:20:09,012 INFO  [Logz] browserType:- Mobile Web - IOS - Chrome 
+2020-04-26 13:20:09,164 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-26 13:20:11,062 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:20:16,799 INFO  [Logz] Class Name TestClass 
+2020-04-26 13:20:20,583 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-26 13:20:21,911 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:20:22,694 INFO  [Logz] Not Executable 
+2020-04-26 13:20:22,696 INFO  [Logz] Class Name APITest 
+2020-04-26 13:20:44,209 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:20:44,217 INFO  [Logz] browserType:- API - GET Method 
+2020-04-26 13:20:44,399 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:20:50,022 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:20:52,604 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "32 Degree celsius",
+    "Humidity": "59 Percent",
+    "WeatherDescription": "few clouds",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "280 Degree"
+} 
+2020-04-26 13:20:52,604 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:21:34,235 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:21:34,236 INFO  [Logz] browserType:- API - GET Method 
+2020-04-26 13:21:34,399 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:21:39,948 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:21:41,410 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "32 Degree celsius",
+    "Humidity": "59 Percent",
+    "WeatherDescription": "few clouds",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "280 Degree"
+} 
+2020-04-26 13:21:41,410 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:22:20,890 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:22:20,891 INFO  [Logz] browserType:- API - GET Method 
+2020-04-26 13:22:21,049 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:22:26,614 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:22:28,329 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "32 Degree celsius",
+    "Humidity": "59 Percent",
+    "WeatherDescription": "few clouds",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "280 Degree"
+} 
+2020-04-26 13:22:28,329 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:24:22,116 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:24:22,117 INFO  [Logz] browserType:- API - GET Method 
+2020-04-26 13:24:22,276 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:24:27,779 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:24:29,240 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "32 Degree celsius",
+    "Humidity": "59 Percent",
+    "WeatherDescription": "few clouds",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "280 Degree"
+} 
+2020-04-26 13:24:29,240 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:43:39,829 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:43:39,830 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 13:43:40,996 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 13:43:43,160 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:43:57,584 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:43:57,586 INFO  [Logz] Class Name TestClass 
+2020-04-26 13:44:46,231 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:44:46,233 INFO  [Logz] browserType:- Web - Firefox 
+2020-04-26 13:44:46,421 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-26 13:44:50,567 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:44:56,413 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:44:56,416 INFO  [Logz] Class Name TestClass 
+2020-04-26 13:45:14,779 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:45:14,780 INFO  [Logz] browserType:- Mobile Web - Android - Chrome 
+2020-04-26 13:45:14,925 INFO  [Logz] -------- Mobile Web Android - Chrome Browser Session Started ----------- 
+2020-04-26 13:45:16,754 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:45:22,722 INFO  [Logz] Class Name TestClass 
+2020-04-26 13:45:44,451 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:45:44,453 INFO  [Logz] browserType:- Mobile Web - IOS - Chrome 
+2020-04-26 13:45:44,584 INFO  [Logz] -------- Mobile Web IOS - Chrome Browser Session Started ----------- 
+2020-04-26 13:45:46,398 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:45:52,176 INFO  [Logz] Class Name TestClass 
+2020-04-26 13:46:07,391 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:46:07,392 INFO  [Logz] browserType:- API - GET Method 
+2020-04-26 13:46:07,562 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:46:42,819 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:46:42,820 INFO  [Logz] browserType:- API - GET Method 
+2020-04-26 13:46:42,976 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:46:45,799 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "32 Degree celsius",
+    "Humidity": "55 Percent",
+    "WeatherDescription": "few clouds",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "270 Degree"
+} 
+2020-04-26 13:46:45,800 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:49:06,405 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:49:06,407 INFO  [Logz] browserType:- API - GET Method 
+2020-04-26 13:49:06,551 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:49:08,365 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "32 Degree celsius",
+    "Humidity": "55 Percent",
+    "WeatherDescription": "few clouds",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "270 Degree"
+} 
+2020-04-26 13:49:08,365 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:49:59,238 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:49:59,239 INFO  [Logz] browserType:- API - GET Method 
+2020-04-26 13:49:59,461 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 13:50:01,831 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "32 Degree celsius",
+    "Humidity": "55 Percent",
+    "WeatherDescription": "few clouds",
+    "WindSpeed": "5.1 Km per hour",
+    "WindDirectionDegree": "270 Degree"
+} 
+2020-04-26 13:50:01,832 INFO  [Logz] ----- Done ----- 
+2020-04-26 13:54:12,014 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:54:12,017 INFO  [Logz] browserType:- null 
+2020-04-26 13:55:17,030 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:55:17,040 INFO  [Logz] browserType:- null 
+2020-04-26 13:56:04,908 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:56:04,910 INFO  [Logz] browserType:- null 
+2020-04-26 13:56:36,761 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:56:36,763 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 13:56:36,912 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 13:56:39,333 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:56:41,143 INFO  [Logz] Not Executable 
+2020-04-26 13:56:41,147 INFO  [Logz] Class Name APITest 
+2020-04-26 13:57:40,195 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:57:40,198 INFO  [Logz] browserType:- null 
+2020-04-26 13:58:45,908 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:58:45,909 INFO  [Logz] browserType:- null 
+2020-04-26 13:59:19,078 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:59:19,080 INFO  [Logz] browserType:- null 
+2020-04-26 13:59:43,346 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 13:59:43,348 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 13:59:43,515 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 13:59:45,681 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 13:59:47,349 INFO  [Logz] Not Executable 
+2020-04-26 13:59:47,353 INFO  [Logz] Class Name APITest 
+2020-04-26 14:00:29,465 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 14:00:29,467 INFO  [Logz] browserType:- null 
+2020-04-26 14:01:43,444 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 14:01:43,445 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 14:01:43,607 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 14:01:45,473 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 14:01:51,293 INFO  [Logz] ----- Done ----- 
+2020-04-26 14:01:51,295 INFO  [Logz] Class Name TestClass 
+2020-04-26 14:02:40,956 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 14:02:40,957 INFO  [Logz] browserType:- API - GET Method 
+2020-04-26 14:02:41,134 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 14:02:43,044 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "32.51 Degree celsius",
+    "Humidity": "59 Percent",
+    "WeatherDescription": "few clouds",
+    "WindSpeed": "7.7 Km per hour",
+    "WindDirectionDegree": "270 Degree"
+} 
+2020-04-26 14:02:43,044 INFO  [Logz] ----- Done ----- 
+2020-04-26 14:02:50,349 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 14:02:50,350 INFO  [Logz] browserType:- API - GET Method 
+2020-04-26 14:02:50,534 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 17:20:07,209 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:20:39,901 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:20:39,902 INFO  [Logz] browserType:- API - GET Method 
+2020-04-26 17:20:40,083 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-26 17:20:43,085 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "32 Degree celsius",
+    "Humidity": "62 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "6.2 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+} 
+2020-04-26 17:20:43,089 INFO  [Logz] ----- Done ----- 
+2020-04-26 17:20:59,068 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:20:59,069 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:20:59,191 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:21:01,625 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:21:10,175 INFO  [Logz] ----- Done ----- 
+2020-04-26 17:21:10,177 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:25:53,850 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:25:53,851 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:25:53,980 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:25:55,959 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:26:13,334 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:29:13,362 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:29:13,364 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:29:13,494 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:29:15,333 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:29:22,668 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:30:59,528 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:30:59,529 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:30:59,653 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:31:01,513 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:31:07,272 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:31:48,859 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:31:48,861 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:31:48,993 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:31:50,802 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:31:56,551 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:34:10,844 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:34:10,847 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:34:10,990 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:34:13,015 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:34:20,186 INFO  [Logz] ----- Done ----- 
+2020-04-26 17:34:20,188 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:35:06,377 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:35:06,379 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:35:06,504 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:35:08,366 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:35:15,120 INFO  [Logz] ----- Done ----- 
+2020-04-26 17:35:15,123 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:35:36,750 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:35:36,752 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:35:36,882 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:35:38,636 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:35:45,328 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 17:35:45,432 INFO  [Logz] ----- Done ----- 
+2020-04-26 17:35:45,434 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:38:21,312 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:38:21,314 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:38:21,462 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:38:23,326 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:38:28,954 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 17:38:29,050 INFO  [Logz] ----- Done ----- 
+2020-04-26 17:38:29,052 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:39:10,113 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:39:10,114 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:39:10,246 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:39:12,064 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:39:18,511 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:42:41,996 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:42:41,997 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:42:42,126 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:42:44,183 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:42:49,905 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:44:41,172 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:44:41,173 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:44:41,292 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:44:43,237 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:44:53,815 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:46:59,790 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:46:59,792 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:46:59,911 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:47:01,718 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:47:07,341 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:47:46,323 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:47:46,324 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:47:46,460 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:47:48,211 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:47:55,157 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:51:01,135 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:51:01,136 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:51:01,285 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:51:03,159 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:51:09,983 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:52:52,856 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:52:52,859 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:52:53,026 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:52:55,069 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:52:59,957 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:57:20,375 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:57:20,380 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:57:20,511 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:57:22,368 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:57:25,020 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:58:22,992 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:58:22,993 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:58:23,116 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:58:24,824 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:58:29,717 INFO  [Logz] ----- Done ----- 
+2020-04-26 17:58:29,720 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:58:42,029 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:58:42,032 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:58:42,146 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:58:43,742 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:58:46,353 INFO  [Logz] ----- Done ----- 
+2020-04-26 17:58:46,356 INFO  [Logz] Class Name TestClass 
+2020-04-26 17:59:51,452 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 17:59:51,459 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 17:59:51,583 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 17:59:53,254 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 17:59:56,972 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 17:59:56,985 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:02:23,335 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:02:23,337 INFO  [Logz] browserType:- Web - Chrome 
+2020-04-26 18:02:23,458 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:02:25,168 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:02:31,791 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:02:31,800 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:03:37,539 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:03:37,540 INFO  [Logz] searchField:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:03:37,650 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:03:39,333 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:03:43,087 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:03:43,093 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:04:04,929 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:04:04,930 INFO  [Logz] searchField:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:04:05,043 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:04:06,595 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:04:09,209 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:04:09,215 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:05:40,061 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:05:40,181 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:05:41,895 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:05:44,508 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:05:44,514 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:09:31,257 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:09:31,401 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:09:33,278 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:09:36,717 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:09:36,727 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:10:02,043 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:10:02,156 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:10:03,701 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:10:07,172 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:10:07,178 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:13:22,511 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:13:22,624 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:13:24,321 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:13:40,894 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:13:40,899 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:15:31,320 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:15:31,430 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:15:33,028 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:15:36,708 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:15:36,803 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:15:36,805 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:18:25,925 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:18:26,051 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:18:27,751 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:18:30,470 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:18:30,566 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:18:30,568 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:21:48,504 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:21:48,617 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:21:50,325 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:21:56,134 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:21:56,238 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:21:56,239 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:29:08,385 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:29:08,523 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:29:10,391 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:29:14,614 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:29:14,735 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:29:14,738 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:30:36,040 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:30:36,175 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:30:37,858 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:30:41,557 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:30:41,678 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:30:41,680 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:32:40,511 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:32:40,632 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:32:42,366 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:32:46,190 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:32:46,199 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:33:35,140 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:33:35,259 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:33:36,926 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:33:39,536 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:33:39,540 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:33:57,475 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:33:57,638 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:33:59,418 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:34:03,247 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:34:03,251 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:34:32,370 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:34:32,501 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:34:34,308 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:34:38,065 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:34:38,074 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:37:15,220 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:37:15,338 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:37:17,081 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:37:19,719 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:37:19,824 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:37:19,827 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:39:00,091 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:39:00,256 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:39:02,307 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:39:06,220 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:39:06,226 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:39:42,163 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:39:42,285 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:39:43,954 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:39:47,601 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:39:47,607 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:40:55,048 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:40:55,192 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:40:57,028 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:41:00,781 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:00,878 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:41:00,879 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:41:39,798 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:41:39,914 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:41:41,488 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:41:44,101 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,203 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,244 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,286 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,326 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,368 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,410 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,452 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,494 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,537 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,583 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,628 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,668 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,717 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,766 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,811 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,854 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,896 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,937 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:44,985 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,027 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,074 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,114 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,153 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,200 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,242 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,293 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,333 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,377 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,415 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,460 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,500 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,541 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,583 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,626 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,671 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,718 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,762 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,807 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,847 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,893 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,936 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:45,983 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,028 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,072 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,111 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,155 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,195 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,239 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,283 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,329 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,367 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,411 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,452 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,495 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,536 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,581 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,621 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,670 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,715 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,762 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,805 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,853 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,899 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,948 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:46,990 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,038 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,079 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,120 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,164 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,203 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,247 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,284 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,327 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,369 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,413 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,453 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,498 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,537 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,584 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,632 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,677 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,717 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,763 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,805 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,851 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,893 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,941 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:47,982 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,019 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,065 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,108 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,146 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,190 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,230 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,271 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,314 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,354 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,395 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,436 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,485 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,539 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,591 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,645 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,694 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,750 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,800 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,851 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,896 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,951 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:48,998 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,043 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,089 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,129 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,168 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,212 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,251 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,301 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,353 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,401 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,459 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,502 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,550 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,594 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,649 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,694 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,743 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,785 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,831 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,873 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,930 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:49,979 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,048 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,098 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,143 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,192 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,236 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,292 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,340 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,389 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,435 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,484 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,536 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,642 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:41:50,673 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:42:55,194 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:42:55,310 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:42:57,018 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:42:59,660 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:42:59,761 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:42:59,803 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:42:59,847 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:42:59,889 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:42:59,933 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:42:59,977 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,020 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,063 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,107 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,150 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,190 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,235 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,277 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,324 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,368 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,414 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,459 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,512 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,557 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,601 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,641 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,684 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,726 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,768 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,811 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,860 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,909 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:00,950 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,003 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,048 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,098 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,145 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,189 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,235 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,279 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,325 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,368 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,410 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,456 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,501 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,545 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,591 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,637 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,686 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,729 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,776 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,818 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,864 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,907 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,949 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:01,995 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,034 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,078 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,119 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,161 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,199 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,245 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,284 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,325 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,374 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,419 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,470 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,513 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,551 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,594 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,636 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,678 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,716 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,762 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,804 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,846 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,892 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,935 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:02,982 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,028 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,069 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,109 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,155 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,198 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,244 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,283 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,332 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,373 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,417 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,460 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,503 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,543 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,589 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,628 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,673 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,716 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,762 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,812 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,855 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,902 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,946 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:03,993 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,050 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,100 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,142 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,186 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,226 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,268 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,313 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,358 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,399 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,438 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,483 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,523 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,568 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,609 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,652 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,695 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,742 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,783 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,824 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,869 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,912 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,956 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:04,996 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,041 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,084 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,128 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,166 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,204 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,252 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,292 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,339 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,381 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,424 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,467 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,510 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,554 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,597 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,639 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,686 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,730 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,777 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,821 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,869 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,911 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:05,959 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,001 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,046 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,086 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,131 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,176 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,220 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,263 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,304 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,348 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,391 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,433 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,481 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,523 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,570 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,610 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,652 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,699 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,747 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,792 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,834 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,882 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,927 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:06,971 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,013 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,057 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,100 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,145 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,197 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,242 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,287 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,331 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,377 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,418 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,462 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,509 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,553 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,600 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,642 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,687 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,728 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,777 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,819 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,864 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,909 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,955 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:07,999 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,044 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,097 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,157 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,208 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,262 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,309 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,359 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,410 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,467 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,516 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,559 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,600 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,653 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,710 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,765 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,821 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,869 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,928 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:08,980 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:09,031 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:09,081 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:09,139 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:09,197 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:09,245 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:09,294 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:09,336 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:09,386 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:09,462 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:09,514 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:48,557 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:43:48,687 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:43:50,233 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:43:53,984 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:43:54,081 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:43:54,082 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:44:56,228 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:44:56,349 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:44:57,871 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:45:01,535 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:45:01,538 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:45:35,645 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:45:35,761 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:45:37,335 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:45:39,969 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:45:39,975 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:45:54,683 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:45:54,801 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:45:56,485 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:46:00,132 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:46:00,235 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:46:00,238 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:46:40,448 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:46:40,564 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:46:42,183 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:46:45,893 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:46:45,900 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:47:25,018 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:47:25,175 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:47:27,092 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:47:29,844 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 18:47:29,851 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:52:34,964 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:52:35,092 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:52:36,785 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:52:39,464 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:52:39,565 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:52:39,567 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:53:55,390 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:53:55,508 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:53:57,129 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:54:00,797 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:54:00,897 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:54:00,899 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:55:24,232 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:55:24,351 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:55:25,976 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:55:29,684 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:29,782 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:29,825 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:29,871 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:29,914 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:29,962 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,004 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,050 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,093 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,146 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,191 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,230 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,280 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,320 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,369 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,408 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,451 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,495 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,534 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,579 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,621 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,665 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,710 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,753 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,798 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,839 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,892 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,935 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:30,977 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,020 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,060 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,099 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,137 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,181 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,221 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,276 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,333 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,383 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,441 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,496 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,549 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,603 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,647 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,685 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,734 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,782 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,835 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,896 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:31,948 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,006 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,054 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,101 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,145 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,207 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,262 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,311 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,360 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,418 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,477 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,530 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,602 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,659 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,724 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,779 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,834 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,882 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:32,941 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:33,004 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:55:33,051 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:56:28,712 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:56:28,829 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:56:30,583 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:56:33,196 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:56:33,293 INFO  [Logz] Success 
+2020-04-26 18:56:33,293 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:56:33,295 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:58:19,407 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:58:19,525 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:58:21,169 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:58:23,821 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 18:58:23,932 INFO  [Logz] Success 
+2020-04-26 18:58:23,933 INFO  [Logz] Xpath:- Web - Firefox 
+2020-04-26 18:58:23,933 INFO  [Logz] ----- Done ----- 
+2020-04-26 18:58:23,934 INFO  [Logz] Class Name TestClass 
+2020-04-26 18:59:30,872 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 18:59:30,990 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 18:59:32,584 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 18:59:36,257 INFO  [Logz] Class Name TestClass 
+2020-04-26 19:00:20,572 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 19:00:20,684 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 19:00:22,345 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 19:00:24,981 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 19:00:25,090 INFO  [Logz] Success 
+2020-04-26 19:00:25,090 INFO  [Logz] ----- Done ----- 
+2020-04-26 19:00:25,092 INFO  [Logz] Class Name TestClass 
+2020-04-26 19:02:35,014 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 19:02:35,161 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 19:02:37,120 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 19:02:51,662 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 19:02:51,669 INFO  [Logz] Class Name TestClass 
+2020-04-26 19:23:24,093 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 19:23:25,774 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 19:23:27,736 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 19:23:31,545 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 19:23:31,652 INFO  [Logz] Success 
+2020-04-26 19:23:31,652 INFO  [Logz] ----- Done ----- 
+2020-04-26 19:23:31,654 INFO  [Logz] Class Name TestClass 
+2020-04-26 19:27:41,162 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 19:27:41,313 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 19:27:43,377 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 19:27:48,664 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 19:27:48,673 INFO  [Logz] Class Name TestClass 
+2020-04-26 19:28:33,255 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 19:28:33,378 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 19:28:34,984 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 19:28:38,641 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 19:28:38,742 INFO  [Logz] Success 
+2020-04-26 19:28:38,742 INFO  [Logz] ----- Done ----- 
+2020-04-26 19:28:38,744 INFO  [Logz] Class Name TestClass 
+2020-04-26 21:53:18,868 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 21:53:19,368 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 21:53:21,580 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 21:53:26,735 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 21:53:26,842 INFO  [Logz] Success 
+2020-04-26 21:53:26,842 INFO  [Logz] ----- Done ----- 
+2020-04-26 21:53:26,844 INFO  [Logz] Class Name TestClass 
+2020-04-26 21:55:56,601 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 21:55:56,772 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 21:55:58,653 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 21:56:22,130 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 21:56:22,139 INFO  [Logz] Class Name TestClass 
+2020-04-26 21:57:22,956 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 21:57:23,107 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 21:57:25,322 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 21:57:28,028 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 21:57:28,033 INFO  [Logz] Class Name TestClass 
+2020-04-26 21:59:46,811 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 21:59:46,987 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 21:59:48,716 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 21:59:57,205 INFO  [Logz] searchFieldLocator:- null 
+2020-04-26 21:59:57,210 INFO  [Logz] Class Name TestClass 
+2020-04-26 22:03:04,991 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 22:03:05,451 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 22:03:08,010 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 22:03:11,720 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 22:03:11,822 INFO  [Logz] Success 
+2020-04-26 22:03:11,822 INFO  [Logz] ----- Done ----- 
+2020-04-26 22:03:11,824 INFO  [Logz] Class Name TestClass 
+2020-04-26 22:04:15,064 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 22:04:15,194 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 22:04:16,952 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 22:04:26,513 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 22:04:26,612 INFO  [Logz] Success 
+2020-04-26 22:04:26,612 INFO  [Logz] ----- Done ----- 
+2020-04-26 22:04:26,614 INFO  [Logz] Class Name TestClass 
+2020-04-26 22:04:36,466 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-26 22:04:36,676 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-26 22:04:38,867 INFO  [Logz] --------- Passing URL -------- 
+2020-04-26 22:04:41,621 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-26 22:04:41,723 INFO  [Logz] Success 
+2020-04-26 22:04:41,723 INFO  [Logz] ----- Done ----- 
+2020-04-26 22:04:41,725 INFO  [Logz] Class Name TestClass 
+2020-04-28 12:09:27,864 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-28 12:09:28,082 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-28 12:09:31,738 INFO  [Logz] --------- Passing URL -------- 
+2020-04-28 12:09:35,550 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-28 12:09:35,718 INFO  [Logz] Success 
+2020-04-28 12:09:35,718 INFO  [Logz] ----- Done ----- 
+2020-04-28 12:09:35,722 INFO  [Logz] Class Name TestClass 
+2020-04-28 12:10:51,702 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-28 12:10:51,834 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-28 12:10:56,308 INFO  [Logz] --------- Passing URL -------- 
+2020-04-28 12:10:59,018 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-28 12:10:59,119 INFO  [Logz] Success 
+2020-04-28 12:10:59,119 INFO  [Logz] ----- Done ----- 
+2020-04-28 12:10:59,121 INFO  [Logz] Class Name TestClass 
+2020-04-28 12:13:01,002 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-28 12:13:01,119 INFO  [Logz] ------------ API GET Method - Session Started -------------- 
+2020-04-28 12:13:04,196 INFO  [Logz] Response Body is =>  {
+    "City": "Mumbai",
+    "Temperature": "34.08 Degree celsius",
+    "Humidity": "63 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "6.2 Km per hour",
+    "WindDirectionDegree": "260 Degree"
+} 
+2020-04-28 12:13:04,199 INFO  [Logz] ----- Done ----- 
+2020-04-28 12:15:43,993 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-28 12:15:44,134 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-28 12:15:46,548 INFO  [Logz] --------- Passing URL -------- 
+2020-04-28 12:15:48,348 INFO  [Logz] Not Executable 
+2020-04-28 12:15:48,350 INFO  [Logz] Class Name APITest 
+2020-04-28 12:17:22,925 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-28 12:17:23,044 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-04-28 12:17:25,117 INFO  [Logz] --------- Passing URL -------- 
+2020-04-28 12:17:28,910 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-28 12:17:29,140 INFO  [Logz] Success 
+2020-04-28 12:17:29,140 INFO  [Logz] ----- Done ----- 
+2020-04-28 12:17:29,144 INFO  [Logz] Class Name TestClass 
+2020-04-28 12:18:06,139 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-04-28 12:18:06,290 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-04-28 12:18:10,205 INFO  [Logz] --------- Passing URL -------- 
+2020-04-28 12:18:13,507 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-04-28 12:18:13,580 INFO  [Logz] Success 
+2020-04-28 12:18:13,580 INFO  [Logz] ----- Done ----- 
+2020-04-28 12:18:13,583 INFO  [Logz] Class Name TestClass 
