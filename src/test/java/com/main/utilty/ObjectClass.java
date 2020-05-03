@@ -7,7 +7,7 @@ import com.test.page.TestOnePage;
 public class ObjectClass   extends PropertyData{ 
 	
 	
-	private static TestOnePage testpage = new TestOnePage();
+	private static TestOnePage testpage = new TestOnePage(driver);
 
 	public  TestOnePage getTestpage() {
 		return testpage;

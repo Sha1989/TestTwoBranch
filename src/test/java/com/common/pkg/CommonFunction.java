@@ -1,13 +1,22 @@
 package com.common.pkg;
 
+import java.io.File;
 import java.net.URL;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
+import com.aventstack.extentreports.reporter.configuration.Theme;
 import com.main.utilty.Logz;
 import com.main.utilty.ObjectClass;
 
@@ -16,6 +25,8 @@ import io.restassured.RestAssured;
 import io.restassured.specification.RequestSpecification;
 
 public class CommonFunction extends PropertyData {
+
+	String sTestCaseName;
 
 	public void environment(String platform, String message, String key, String value) throws Exception {
 		Logz.message(message, true);
@@ -42,7 +53,7 @@ public class CommonFunction extends PropertyData {
 			driver = new ChromeDriver(chromeOptions);
 			urlPass();
 
-		}else if (platform.equalsIgnoreCase("Mobile Web - IOS - Chrome")) {
+		} else if (platform.equalsIgnoreCase("Mobile Web - IOS - Chrome")) {
 
 			System.setProperty(key, value);
 			Map<String, String> mobileEmulation = new HashMap<>();
@@ -57,9 +68,9 @@ public class CommonFunction extends PropertyData {
 			launchAndroid();
 
 		} else if (platform.equalsIgnoreCase("API - GET Method")) {
-			
-			 RestAssured.baseURI = baseUrlGetApi();
-			
+
+			RestAssured.baseURI = baseUrlGetApi();
+
 		}
 	}
 
@@ -78,16 +89,20 @@ public class CommonFunction extends PropertyData {
 
 	public void allEnvironment() throws Exception {
 
-		environment(webChrome(), "----------- Chrome Browser Session Started ---------", getChromeKey(), getChromeExePath());
+//		environment(webChrome(), "----------- Chrome Browser Session Started ---------", getChromeKey(),
+//				getChromeExePath());
 
-		environment(webFirefox(), "----------- Firefox Browser Session Started ---------", getGeckoKey(), getGeckoPath());
+		environment(webFirefox(), "----------- Firefox Browser Session Started ---------", getGeckoKey(),
+				getGeckoPath());
 
-		environment(mobileWebAndroidChrome(), "--------- Mobile Web - Chrome Browser Session Started ----------", getChromeKey(), getChromeExePath());
-		
-		environment(mobileWebIOSChrome(), "-------- Mobile Web IOS - Chrome Browser Session Started -----------", getChromeKey(), getChromeExePath());
+		environment(mobileWebAndroidChrome(), "--------- Mobile Web - Chrome Browser Session Started ----------",
+				getChromeKey(), getChromeExePath());
+
+		environment(mobileWebIOSChrome(), "-------- Mobile Web IOS - Chrome Browser Session Started -----------",
+				getChromeKey(), getChromeExePath());
 
 		environment(androidPlatform(), "------------ Android App - Session Started --------------", "null", "null");
-		
+
 		environment(apiMethod(), "------------ API GET Method - Session Started --------------", "null", "null");
 
 	}
@@ -98,7 +113,7 @@ public class CommonFunction extends PropertyData {
 		driver.get(urlData());
 
 	}
-	
+
 	public static String getTestCaseName(String sTestCase) throws Exception {
 		String value = sTestCase;
 		try {
@@ -112,5 +127,58 @@ public class CommonFunction extends PropertyData {
 			throw (e);
 		}
 	}
+
+	public static void extentReportSetUp() throws Exception {
+
+		String filename = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+		// String extentReportFile = System.getProperty("user.dir") +
+		// "/results/TestExtentReport" + "_" + ".html";
+		String extentReportFile = System.getProperty("user.dir") + "/results/" + browserType() + ".html";
+		htmlReporter = new ExtentHtmlReporter(extentReportFile);
+		extent = new ExtentReports();
+		extent.attachReporter(htmlReporter);
+
+		extent.setSystemInfo("Host Name", "Dummy");
+		extent.setSystemInfo("Environment", "Automation Testing");
+		extent.setSystemInfo("User Name", "Shashank Bansal");
+
+		htmlReporter.config().setDocumentTitle("Dummy - Automation Status");
+		htmlReporter.config().setReportName("Automation Report");
+
+		htmlReporter.config().setTheme(Theme.STANDARD);
+
+	}
+
+	public void extentReprotFinish() throws Exception {
+
+		screenshotSetUp();
+		extentReportFlush();
+		quit();
+
+	}
+
+	public void screenshotSetUp() throws Exception {
+
+		sTestCaseName = this.toString();
+		sTestCaseName = getTestCaseName(this.toString());
+		getClassName();
+		String className = propoutput.getProperty("ClassName");
+		Logz.message("Class Name " + className);
+		Thread.sleep(3000);
+		File file = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+		File dest = new File(System.getProperty("user.dir") + "/Screenshots/" + className + ".png");
+		FileUtils.copyFile(file, dest);
+	}
+
+	public void quit() throws Exception {
+
+		driver.quit();
+	}
+	
+	public void extentReportFlush() throws Exception {
+		
+		extent.flush();
+		
+	} 
 
 }

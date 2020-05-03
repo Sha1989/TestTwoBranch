@@ -1,11 +1,21 @@
 package com.test.page;
 
-import org.openqa.selenium.By;
-import com.main.utilty.Logz;
-import com.main.utilty.ObjectClass;
-import com.main.utilty.PropertyFileMethod;
+import static com.common.pkg.Locator.getLocator;
 
-public class TestOnePage extends ObjectClass {
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+
+import com.common.pkg.Locator.Loc;
+import com.common.pkg.PageObject;
+import com.main.utilty.Logz;
+
+public class TestOnePage extends PageObject {
+
+	public TestOnePage(WebDriver driver) {
+		super(driver);
+	}
 
 	public String searchFieldLocator = prop.getProperty("searchField");
 
@@ -13,10 +23,13 @@ public class TestOnePage extends ObjectClass {
 
 		Logz.message("searchFieldLocator:- " + searchFieldLocator);
 
-		driver.findElement(By.xpath(searchFieldLocator)).sendKeys("Test");
+		$(Loc.XPATH, searchFieldLocator).click();
+		
+		findElements(ExpectedConditions.presenceOfAllElementsLocatedBy($By(Loc.XPATH, searchFieldLocator)), 5).get(0).sendKeys("Text ");
 
-		getTestpage().message();
+		$(ExpectedConditions.presenceOfElementLocated($By(Loc.XPATH, searchFieldLocator)), 5).sendKeys("Test");
 
+		$(Loc.XPATH, searchFieldLocator).sendKeys("Test");
 	}
 
 	public void message() throws Exception {

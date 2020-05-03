@@ -1,8 +1,11 @@
 package com.common.pkg;
 
+import org.openqa.selenium.chrome.ChromeDriver;
+
 import com.main.utilty.PropertyFileMethod;
 
 import bsh.This;
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class PropertyData extends PropertyFileMethod {
 	
@@ -47,6 +50,9 @@ public class PropertyData extends PropertyFileMethod {
 		
 		String sData = prop.getProperty("webChrome");
 		return sData;
+		
+//		WebDriverManager.chromedriver().version("80.0.3987.106").setup();
+//		driver = new ChromeDriver();
 		
 	}
 	

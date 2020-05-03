@@ -46,6 +46,12 @@ public class Logz extends PropertyFileMethod{
 
 	}
 	
+	public static void debug(String message) throws Exception {
+
+		log.debug(message);
+
+	}
+	
 	public static String error(String message) throws IOException {
 
 		log.error(message);
