@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11870" started-at="2020-05-13T08:51:54Z" finished-at="2020-05-13T08:52:06Z">
+  <suite name="Suite" duration-ms="13822" started-at="2020-05-13T16:09:15Z" finished-at="2020-05-13T16:09:29Z">
     <groups>
     </groups>
-    <test name="Sanity Suite Two" duration-ms="11870" started-at="2020-05-13T08:51:54Z" finished-at="2020-05-13T08:52:06Z">
+    <test name="Sanity Suite Two" duration-ms="13822" started-at="2020-05-13T16:09:15Z" finished-at="2020-05-13T16:09:29Z">
       <class name="com.test.file.TestClass">
-        <test-method status="PASS" signature="startReport()[pri:0, instance:com.test.file.TestClass@7791a895]" name="startReport" is-config="true" duration-ms="179" started-at="2020-05-13T08:51:54Z" finished-at="2020-05-13T08:51:54Z">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.test.file.TestClass@7791a895]" name="startReport" is-config="true" duration-ms="194" started-at="2020-05-13T16:09:15Z" finished-at="2020-05-13T16:09:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startReport -->
-        <test-method status="PASS" signature="setupApplication()[pri:0, instance:com.test.file.TestClass@7791a895]" name="setupApplication" is-config="true" duration-ms="4152" started-at="2020-05-13T08:51:54Z" finished-at="2020-05-13T08:51:59Z">
+        <test-method status="PASS" signature="setupApplication()[pri:0, instance:com.test.file.TestClass@7791a895]" name="setupApplication" is-config="true" duration-ms="4657" started-at="2020-05-13T16:09:15Z" finished-at="2020-05-13T16:09:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupApplication -->
-        <test-method status="FAIL" signature="verifyUrl()[pri:0, instance:com.test.file.TestClass@7791a895]" name="verifyUrl" duration-ms="2316" started-at="2020-05-13T08:51:59Z" finished-at="2020-05-13T08:52:01Z">
+        <test-method status="FAIL" signature="verifyUrl()[pri:0, instance:com.test.file.TestClass@7791a895]" name="verifyUrl" duration-ms="2410" started-at="2020-05-13T16:09:19Z" finished-at="2020-05-13T16:09:22Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [None] but found [test]]]>
@@ -60,7 +60,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyUrl -->
-        <test-method status="PASS" signature="takeScreenshot()[pri:0, instance:com.test.file.TestClass@7791a895]" name="takeScreenshot" is-config="true" duration-ms="3790" started-at="2020-05-13T08:52:02Z" finished-at="2020-05-13T08:52:06Z">
+        <test-method status="PASS" signature="takeScreenshot()[pri:0, instance:com.test.file.TestClass@7791a895]" name="takeScreenshot" is-config="true" duration-ms="3826" started-at="2020-05-13T16:09:25Z" finished-at="2020-05-13T16:09:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreenshot -->
