@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.common.pkg.Element;
@@ -66,7 +67,7 @@ public class PageObject extends PropertyData {
 
 	}
 
-	public List<Element> findElements(ExpectedCondition<List<WebElement>> exp, int delay) {
+	public List<Element> $findElements(ExpectedCondition<List<WebElement>> exp, int delay) {
 
 		WebDriverWait wait = new WebDriverWait(driver, delay);
 
@@ -90,6 +91,18 @@ public class PageObject extends PropertyData {
 			list.add(new Element(driver, el));
 		}
 		return list;
+	}
+
+	public Element $getText(ExpectedCondition<WebElement> exp, int delay) throws Exception {
+
+		Element ele = new Element(driver, exp, delay);
+		return ele;
+	}
+
+	public Element $getText(Element element) {
+
+		return element;
+
 	}
 
 }

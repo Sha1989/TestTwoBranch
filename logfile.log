@@ -2096,3 +2096,74 @@
 2020-05-03 21:43:14,629 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
 2020-05-03 21:43:14,911 INFO  [Logz] ----- Done ----- 
 2020-05-03 21:43:14,913 INFO  [Logz] Class Name TestClass 
+2020-05-03 22:15:45,437 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-03 22:15:45,441 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-03 22:15:45,549 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-03 22:15:48,495 INFO  [Logz] --------- Passing URL -------- 
+2020-05-03 22:16:02,403 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-05-03 22:16:02,656 INFO  [Logz] ----- Done ----- 
+2020-05-03 22:16:02,658 INFO  [Logz] Class Name TestClass 
+2020-05-04 17:56:37,817 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-04 17:56:37,819 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-04 17:58:20,402 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-04 17:58:20,404 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-04 17:58:24,278 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-04 17:58:25,950 INFO  [Logz] --------- Passing URL -------- 
+2020-05-04 17:58:29,546 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-05-04 17:59:27,245 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-04 17:59:27,247 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-04 17:59:29,394 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-04 18:00:58,002 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-04 18:00:58,005 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-04 18:01:00,479 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-04 18:01:24,381 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-04 18:01:24,384 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-04 18:01:26,505 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-04 18:04:03,288 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-04 18:04:03,291 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-04 18:04:05,673 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-04 18:04:58,309 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-04 18:04:58,311 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-04 18:05:00,565 INFO  [Logz] --------- Passing URL -------- 
+2020-05-04 18:05:03,292 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-05-04 18:05:03,604 INFO  [Logz] ----- Done ----- 
+2020-05-04 18:05:03,606 INFO  [Logz] Class Name TestClass 
+2020-05-04 18:05:57,256 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-04 18:05:57,258 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-04 18:05:59,219 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-04 18:05:59,230 INFO  [Logz] --------- Passing URL -------- 
+2020-05-04 18:06:01,905 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-05-04 18:06:02,161 INFO  [Logz] ----- Done ----- 
+2020-05-04 18:06:02,163 INFO  [Logz] Class Name TestClass 
+2020-05-04 18:07:05,874 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-04 18:07:05,875 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-04 18:07:05,965 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-04 18:07:07,662 INFO  [Logz] --------- Passing URL -------- 
+2020-05-04 18:07:08,363 INFO  [Logz] --------- Passing URL -------- 
+2020-05-04 18:07:11,532 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-05-04 18:07:11,867 INFO  [Logz] ----- Done ----- 
+2020-05-04 18:07:11,870 INFO  [Logz] Class Name TestClass 
+2020-05-13 14:18:40,531 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-13 14:18:40,532 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-13 14:18:40,690 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-13 14:18:43,501 INFO  [Logz] --------- Passing URL -------- 
+2020-05-13 14:18:45,361 INFO  [Logz] --------- Passing URL -------- 
+2020-05-13 14:18:48,659 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-05-13 14:18:49,013 INFO  [Logz] ----- Done ----- 
+2020-05-13 14:18:49,016 INFO  [Logz] Class Name TestClass 
+2020-05-13 14:19:28,777 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-13 14:19:28,778 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-13 14:19:28,899 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-13 14:19:30,572 INFO  [Logz] --------- Passing URL -------- 
+2020-05-13 14:19:35,179 INFO  [Logz] --------- Passing URL -------- 
+2020-05-13 14:19:38,312 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-05-13 14:19:38,593 INFO  [Logz] ----- Done ----- 
+2020-05-13 14:19:41,648 INFO  [Logz] Class Name TestClass 
+2020-05-13 14:21:54,754 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-13 14:21:54,756 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-13 14:21:54,883 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-13 14:21:56,741 INFO  [Logz] --------- Passing URL -------- 
+2020-05-13 14:21:57,363 INFO  [Logz] --------- Passing URL -------- 
+2020-05-13 14:22:01,057 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-05-13 14:22:01,346 INFO  [Logz] ----- Done ----- 
+2020-05-13 14:22:02,949 INFO  [Logz] Class Name TestClass 

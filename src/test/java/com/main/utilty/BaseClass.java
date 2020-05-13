@@ -42,6 +42,8 @@ public class BaseClass extends CommonFunction {
 		case "Web - Chrome":
 			environment(webChrome(), "----------- Chrome Browser Session Started ---------", getChromeKey(),
 					getChromeExePath());
+			
+			urlPass();
 			break;
 
 		case "Web - Firefox":

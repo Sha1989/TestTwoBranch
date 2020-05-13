@@ -4,9 +4,11 @@ import static com.common.pkg.Locator.getLocator;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
+import com.common.pkg.Element;
 import com.common.pkg.Locator.Loc;
 import com.common.pkg.PageObject;
 import com.main.utilty.Logz;
@@ -25,9 +27,15 @@ public class TestOnePage extends PageObject {
 
 		$(Loc.XPATH, searchFieldLocator).click();
 		
-		findElements(ExpectedConditions.presenceOfAllElementsLocatedBy($By(Loc.XPATH, searchFieldLocator)), 5).get(0).sendKeys("Text ");
-
+		$findElements(ExpectedConditions.presenceOfAllElementsLocatedBy($By(Loc.XPATH, searchFieldLocator)), 5).get(0).sendKeys("Text ");
+	
+        $getText(ExpectedConditions.presenceOfElementLocated($By(Loc.XPATH, searchFieldLocator)), 5);
+        
+        $findElements(ExpectedConditions.presenceOfAllElementsLocatedBy($By(Loc.XPATH, searchFieldLocator)), 5).get(0).getText();
+        
 		$(ExpectedConditions.presenceOfElementLocated($By(Loc.XPATH, searchFieldLocator)), 5).sendKeys("Test");
+		
+		$getText($findElements(ExpectedConditions.presenceOfAllElementsLocatedBy($By(Loc.XPATH, searchFieldLocator)), 5).get(0));
 
 		$(Loc.XPATH, searchFieldLocator).sendKeys("Test");
 	}

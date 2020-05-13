@@ -39,6 +39,11 @@ public class Element {
 		return this;
 	}
 
+	public Element getText() {
+		this.element.getText();
+		return this;
+	}
+
 	public Element(WebDriver driver, ExpectedCondition<?> exp, int... delay) throws Exception {
 
 		this.driver = driver;
@@ -53,16 +58,6 @@ public class Element {
 		}
 
 	}
-	
-	 public List<Element> findElements(By by) {
-	        List<WebElement> els = (List<WebElement>) wait.until(ExpectedConditions.visibilityOfNestedElementsLocatedBy(this.element, by));
-	        List<Element> list = new ArrayList<Element>();
-	        for (WebElement el : els) {
-	            list.add(new Element(driver, el));
-	        }
-	        return list;
-	    }
-
 
 	public Element(WebDriver driver, By by) throws Exception {
 
