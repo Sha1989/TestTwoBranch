@@ -93,8 +93,8 @@ public class PropertyData extends PropertyFileMethod {
 	}
 
 	public static String browserType() throws Exception {
-		 String sData = System.getenv("browserType");
-		//String sData = prop.getProperty("browserType");
+	    //String sData = System.getenv("browserType");
+		String sData = prop.getProperty("browserType");
 		return sData;
 
 	}

@@ -2240,3 +2240,14 @@
 2020-05-13 23:15:32,991 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
 2020-05-13 23:15:33,429 INFO  [Logz] ----- Done ----- 
 2020-05-13 23:15:33,433 INFO  [Logz] Class Name TestClass 
+2020-05-13 23:24:55,051 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-13 23:24:55,054 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-13 23:24:55,137 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-05-13 23:24:58,981 INFO  [Logz] --------- Passing URL -------- 
+2020-05-13 23:24:59,722 INFO  [Logz] Not Executable 
+2020-05-13 23:24:59,724 INFO  [Logz] Class Name APITest 
+2020-05-13 23:25:04,804 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-05-13 23:25:07,340 INFO  [Logz] --------- Passing URL -------- 
+2020-05-13 23:25:10,042 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-05-13 23:25:10,476 INFO  [Logz] ----- Done ----- 
+2020-05-13 23:25:10,477 INFO  [Logz] Class Name TestClass 
