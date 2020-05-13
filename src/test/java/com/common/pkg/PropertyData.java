@@ -4,8 +4,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.main.utilty.PropertyFileMethod;
 
-import bsh.This;
-import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class PropertyData extends PropertyFileMethod {
 

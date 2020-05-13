@@ -18,11 +18,9 @@ import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import com.main.utilty.Logz;
-import com.main.utilty.ObjectClass;
 
 import io.appium.java_client.android.AndroidDriver;
 import io.restassured.RestAssured;
-import io.restassured.specification.RequestSpecification;
 
 public class CommonFunction extends PropertyData {
 
