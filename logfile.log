@@ -2355,3 +2355,4 @@
 2020-05-14 00:13:25,496 INFO  [Logz] --------- Passing URL -------- 
 2020-05-14 00:13:28,995 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
 2020-05-14 00:13:29,317 INFO  [Logz] ----- Done ----- 
+2020-05-14 00:13:31,245 INFO  [Logz] Class Name TestClass 
