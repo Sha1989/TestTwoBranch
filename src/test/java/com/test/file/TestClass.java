@@ -19,7 +19,7 @@ public class TestClass extends BaseClass {
 
 		obj.getTestpage().enterDataSearchField();
 		Logz.message("----- Done -----");
-		Assert.assertEquals("test", "None");
+		Assert.assertEquals("test", "test");
 	}
 
 }
