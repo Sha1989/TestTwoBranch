@@ -128,9 +128,11 @@
                   <a name="verifyUrl">
                   </a> <!-- verifyUrl -->
                   <span class="method-name">verifyUrl</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [nones] but found [test]
-	at com.test.file.TestClass.verifyUrl(TestClass.java:22)
-... Removed 31 stack frames
+                  <div class="stack-trace">java.lang.NullPointerException
+	at com.common.pkg.Element.click(Element.java:38)
+	at com.test.page.TestOnePage.enterDataSearchField(TestOnePage.java:28)
+	at com.test.file.TestClass.verifyUrl(TestClass.java:20)
+... Removed 25 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
@@ -195,12 +197,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'verifyUrl')
 data.setCell(0, 2, 'com.test.file.TestClass')
-data.setCell(0, 3, 2347);
+data.setCell(0, 3, 12453);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 2 seconds</span>
+              <span class="suite-total-time">Total running time: 12 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -233,17 +235,19 @@ return data;
               </div> <!-- configuration-suite before -->
               <div class="configuration-class before">
                 <span class="method-name">setupApplication</span>
-                <span class="method-start">226 ms</span>
+                <span class="method-start">394 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">verifyUrl</span>
-                <span class="method-start">5228 ms</span>
+                <span class="method-start">6899 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">takeScreenshot</span>
-                <span class="method-start">9501 ms</span>
+                <span class="method-start">22689 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

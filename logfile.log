@@ -2356,3 +2356,11 @@
 2020-05-14 00:13:28,995 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
 2020-05-14 00:13:29,317 INFO  [Logz] ----- Done ----- 
 2020-05-14 00:13:31,245 INFO  [Logz] Class Name TestClass 
+2020-05-14 16:26:55,792 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-14 16:26:55,795 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-14 16:26:56,074 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-14 16:26:59,414 INFO  [Logz] --------- Passing URL -------- 
+2020-05-14 16:27:01,760 INFO  [Logz] --------- Passing URL -------- 
+2020-05-14 16:27:04,611 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-05-14 16:27:15,016 INFO  [Logz] Expected condition failed: waiting for presence of element located by: By.xpath: //input[contains(@class, 'gLFyf gsfi')] (tried for 10 second(s) with 500 milliseconds interval) 
+2020-05-14 16:27:18,355 INFO  [Logz] Class Name TestClass 

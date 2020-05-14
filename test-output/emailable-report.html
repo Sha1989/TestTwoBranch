@@ -9,12 +9,33 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">Suite</th></tr>
-<tr><td><a href="#t0">Sanity Suite Two</a></td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">13,151</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Sanity Suite Two</a></td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">25,335</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Sanity Suite Two &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.test.file.TestClass</td><td><a href="#m0">verifyUrl</a></td><td rowspan="1">1589395406972</td><td rowspan="1">2347</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Sanity Suite Two &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">com.test.file.TestClass</td><td><a href="#m0">takeScreenshot</a></td><td rowspan="1">1589453838354</td><td rowspan="1">3015</td></tr><tr><th colspan="4">Sanity Suite Two &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.test.file.TestClass</td><td><a href="#m1">verifyUrl</a></td><td rowspan="1">1589453822564</td><td rowspan="1">12453</td></tr></tbody>
 </table>
-<h2>Sanity Suite Two</h2><h3 id="m0">com.test.file.TestClass#verifyUrl</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [nones] but found [test]
-	at com.test.file.TestClass.verifyUrl(TestClass.java:22)
+<h2>Sanity Suite Two</h2><h3 id="m0">com.test.file.TestClass#takeScreenshot</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=81.0.4044.138)
+Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;
+System info: host: &apos;AMAC02W46BEHTD8&apos;, ip: &apos;fe80:0:0:0:1cb9:31c4:32f3:adf8%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.14.6&apos;, java.version: &apos;1.8.0_221&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: /var/folders/km/xqdxk1lj1tx...}, goog:chromeOptions: {debuggerAddress: localhost:50426}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 98d2e8aa4a23af3097f1f14b4c2e10ae
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:294)
+	at com.common.pkg.CommonFunction.screenshotSetUp(CommonFunction.java:166)
+	at com.common.pkg.CommonFunction.extentReprotFinish(CommonFunction.java:152)
+	at com.main.utilty.BaseClass.takeScreenshot(BaseClass.java:95)
 ... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.test.file.TestClass#verifyUrl</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.NullPointerException
+	at com.common.pkg.Element.click(Element.java:38)
+	at com.test.page.TestOnePage.enterDataSearchField(TestOnePage.java:28)
+	at com.test.file.TestClass.verifyUrl(TestClass.java:20)
+... Removed 25 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>
