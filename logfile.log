@@ -2413,3 +2413,10 @@
 2020-05-20 11:59:46,888 INFO  [Logz] --------- Call Data Property File ---------- 
 2020-05-20 11:59:46,890 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
 2020-05-20 11:59:46,996 INFO  [Logz] ----------- Chrome Browser Session Started --------- 
+2020-05-25 20:33:20,582 INFO  [Logz] --------- Call Data Property File ---------- 
+2020-05-25 20:33:20,585 INFO  [Logz] -------------- Calling Extent Report Set Up Function --------- 
+2020-05-25 20:33:20,832 INFO  [Logz] ----------- Firefox Browser Session Started --------- 
+2020-05-25 20:33:24,639 INFO  [Logz] --------- Passing URL -------- 
+2020-05-25 20:33:27,814 INFO  [Logz] searchFieldLocator:- //input[contains(@class, 'gLFyf gsfi')] 
+2020-05-25 20:33:28,217 INFO  [Logz] ----- Done ----- 
+2020-05-25 20:33:28,220 INFO  [Logz] Class Name TestClass 
