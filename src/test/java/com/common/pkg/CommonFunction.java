@@ -87,8 +87,8 @@ public class CommonFunction extends PropertyData {
 
 	public void allEnvironment() throws Exception {
 
-//		environment(webChrome(), "----------- Chrome Browser Session Started ---------", getChromeKey(),
-//				getChromeExePath());
+		environment(webChrome(), "----------- Chrome Browser Session Started ---------", getChromeKey(),
+				getChromeExePath());
 
 		environment(webFirefox(), "----------- Firefox Browser Session Started ---------", getGeckoKey(),
 				getGeckoPath());
@@ -172,11 +172,11 @@ public class CommonFunction extends PropertyData {
 
 		driver.quit();
 	}
-	
+
 	public void extentReportFlush() throws Exception {
-		
+
 		extent.flush();
-		
-	} 
+
+	}
 
 }

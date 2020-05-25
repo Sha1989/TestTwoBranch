@@ -3,8 +3,8 @@ package com.test.file;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import com.main.utilty.BaseClass;
-import com.main.utilty.FileReaderManager;
 import com.main.utilty.Logz;
+import com.main.utilty.PageObjectManager;
 
 public class TestClass extends BaseClass {
 
@@ -15,7 +15,7 @@ public class TestClass extends BaseClass {
 		logger = extent.createTest("--------- TestClass -----------");
 		Thread.sleep(2000);
 
-		FileReaderManager.getInstance().getTestOneInstance().enterDataSearchField();
+		PageObjectManager.getInstance().getTestOneInstance().enterDataSearchField();
 		Logz.message("----- Done -----");
 		Assert.assertEquals("test", "test");
 	}
