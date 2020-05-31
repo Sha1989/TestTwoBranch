@@ -21,7 +21,6 @@ public class APITest extends BaseClass {
 		Response response = httpRequest.get("/" + apiLocationDetail());
 		String responseBody = response.getBody().asString();
 		Logz.message("Response Body is =>  " + responseBody);
-
 		Logz.message("----- Done -----");
 		
 		}else {

@@ -1,4 +1,3 @@
-
 // Utility File - Property File Method
 
 package com.main.utilty;
